@@ -9,11 +9,12 @@ To Dos
 EXTRAS
 - equity pairs
 - android app
-
 '''
 
 from alpha_vantage.foreignexchange import ForeignExchange
 import tkinter as tk
+import pandas as pd
+import numpy as np
 
 VALUE_PER_PIP = 10          # for Standard Lots
 
