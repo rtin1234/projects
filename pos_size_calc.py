@@ -3,9 +3,9 @@ Position Size Calculator
 
 This script automates the position size calculation formula
 
-Milestone EXTRA: Do the same for equity pairs
+EXTRA: Do the same for equity pairs
 
-Milestone EXTRA: Make it compatible as an android app
+EXTRA: Make it compatible as an android app
 
 '''
 
