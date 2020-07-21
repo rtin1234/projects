@@ -3,9 +3,12 @@ Position Size Calculator
 
 This script automates the position size calculation formula
 
-EXTRA: Do the same for equity pairs
+To Dos
+- speed up program by using pandas and numpy for leverage dictionary
 
-EXTRA: Make it compatible as an android app
+EXTRAS
+- equity pairs
+- android app
 
 '''
 
